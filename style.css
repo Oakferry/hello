@@ -1,0 +1,48 @@
+table{
+    border-collapse: collapse;
+    width: 70%;
+
+
+}
+
+thead{
+    background-color: rgb(25, 51, 121);
+    color: aliceblue;
+}
+
+#nameCourse{
+    text-align: left;
+}
+
+th,td{
+    border: 1px solid black;
+    
+}
+
+tr, td{
+    border: 1px solid black;
+
+}
+
+#tittleGray{
+    background-color: rgb(150, 149, 149);
+    padding: 10px;
+    text-align: center;
+
+}
+
+#others{
+    text-align: center;
+}
+
+.redNote{
+    color: rgb(231, 3, 3);
+}
+
+.orange{
+    background-color: rgb(240, 175, 34);
+}
+
+.underline{
+    text-decoration: underline;
+}
